@@ -1,0 +1,4 @@
+# AndroidwindEmulator
+android application that takes wind speed as an input from different methods ( manual by adjusting a seekbar - reading data from csv file ) and generate a real-time output ( wind turbine power ) sending it through USB-serial-protocol to a micro-controller which controls the power supplied to a motor than sending and taking back the speed of the motor ( RPM ) sending it back to the application which will visualize it on a graph .
+
+android application that takes wind speed as an input from different methods ( manual by adjusting a seekbar - reading data from csv file ) and generate a real-time output ( wind turbine power ) sending it through USB-serial-protocol to a micro-controller which controls the power supplied to a motor than sending and taking back the speed of the motor ( RPM ) sending it back to the application which will visualize it on a graph .
